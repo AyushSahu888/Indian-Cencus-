@@ -1,7 +1,4 @@
-CREATE TABLE IF NOT EXISTS Dataset2_Population (
-    `District` VARCHAR(28) CHARACTER SET utf8,
-    `State` VARCHAR(27) CHARACTER SET utf8,
-    `Population` NUMERIC(9, 1)
+
 );
 INSERT INTO Dataset2_Population VALUES ('Adilabad','Andhra Pradesh',2741239.0),
 	('Agra','Uttar Pradesh',4418797.0),
